@@ -1,0 +1,11 @@
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\bin\Debug\netcoreapp2.0\CLedgeMag.deps.json
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\bin\Debug\netcoreapp2.0\CLedgeMag.runtimeconfig.json
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\bin\Debug\netcoreapp2.0\CLedgeMag.runtimeconfig.dev.json
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\bin\Debug\netcoreapp2.0\CLedgeMag.dll
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\bin\Debug\netcoreapp2.0\CLedgeMag.pdb
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.csprojResolveAssemblyReference.cache
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.csproj.CoreCompileInputs.cache
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.AssemblyInfoInputs.cache
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.AssemblyInfo.cs
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.dll
+D:\CLedgeMag\CLedgeMag\CLedgeMag\CLedgeMag\obj\Debug\netcoreapp2.0\CLedgeMag.pdb
